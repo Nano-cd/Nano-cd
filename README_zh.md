@@ -124,11 +124,3 @@
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-<div align="center">
-
-[![Nano-cd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nano-cd&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
