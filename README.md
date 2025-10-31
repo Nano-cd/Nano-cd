@@ -9,9 +9,9 @@
 <p>From pixels and signals to language — I build elegant and efficient intelligent solutions for real-world challenges.</p>
 
 <p>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="your_linkedin_url"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://ieeexplore.ieee.org/author/37086383618"><img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white" /></a>
+  <a href="mailto:chengdigogogo@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/%E5%9C%B0-%E7%A8%8B-442023295/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://ieeexplore.ieee.org/author/37089721043"><img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white" /></a>
 </p>
 
 </div>
